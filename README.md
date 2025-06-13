@@ -37,7 +37,7 @@ This repository will be progressively updated with:
 
 ## 📫 Contact
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/tu-nombre-de-usuario)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/pablo-mart%C3%ADn-velasco/)
 - 📧 Email: pabmartinvelasco@gmail.com
 
 ---
